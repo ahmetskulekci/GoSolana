@@ -1,3 +1,5 @@
-# GoWallet
+# Golang Solana Practise
 
-## Golang Blockchain Practise
+
+## Part One Creating Solana Network 
+  
